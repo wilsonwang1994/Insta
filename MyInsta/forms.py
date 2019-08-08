@@ -1,7 +1,7 @@
 from django import forms
 from django.forms import ModelForm
 from django.contrib.auth.forms import UserCreationForm
-from .models import InstaUser
+from MyInsta.models import InstaUser
 
 # forms defined here handles user inputs
 
